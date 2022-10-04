@@ -9,8 +9,6 @@ const http = require('http');
 // })
 
 // server.listen(3000)
-
-
 // it can be written as follows
 const server = http.createServer(function (req, res){
     if(req.url === '/spider'){

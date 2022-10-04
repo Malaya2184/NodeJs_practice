@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon 25_expressesApi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malaya2184/NodeJs_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malaya2184/NodeJs_practice/issues"
+  },
+  "homepage": "https://github.com/Malaya2184/NodeJs_practice#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
